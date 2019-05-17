@@ -1,0 +1,1 @@
+{"customisations":"scruffy","type":"class","dsl":"// Cool Class Diagram, [Customer|-forname:string;surname:string|doShiz()]<>-orders*>[Order], [Order]++-0..*>[LineItem], [Order]-[note:Aggregate root{bg:wheat}]","digest":"10affcd2","file_only":false,"mime":"application/pdf","extension":"pdf"}
